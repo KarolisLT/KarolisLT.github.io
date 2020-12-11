@@ -23,7 +23,7 @@ h1 {
     text-shadow: 5px 5px 15px black;
 }
 #senis {
-    background: url(foto/Backgroundas.jpg);
+    background: url(Backgroundas.jpg);
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
